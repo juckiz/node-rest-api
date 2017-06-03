@@ -1,0 +1,24 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "REST api with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juckiz/node-rest-api.git"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api"
+  ],
+  "author": "Jukka Mäkiharju",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juckiz/node-rest-api/issues"
+  },
+  "homepage": "https://github.com/juckiz/node-rest-api#readme"
+}
