@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/juckiz/node-rest-api/issues"
   },
-  "homepage": "https://github.com/juckiz/node-rest-api#readme"
+  "homepage": "https://github.com/juckiz/node-rest-api#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }

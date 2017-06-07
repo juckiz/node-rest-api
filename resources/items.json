@@ -1,0 +1,5 @@
+[
+  { "type": "car", "ref": "/resources/car" },
+  { "type": "bike", "ref": "/resources/bike" },
+  { "type": "dog", "ref": "/resources/dog" }
+]
